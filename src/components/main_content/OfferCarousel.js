@@ -1,7 +1,7 @@
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 
-function Offer_Carousel() {
+function OfferCarousel() {
   const responsive = {
     superLargeDesktop: {
       breakpoint: { max: 4000, min: 3000 },
@@ -74,4 +74,4 @@ function Offer_Carousel() {
   );
 }
 
-export default Offer_Carousel;
+export default OfferCarousel;

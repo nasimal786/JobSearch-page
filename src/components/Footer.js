@@ -28,7 +28,7 @@ function Footer() {
           <h2>Follow</h2>
           <i className="fa-brands fa-facebook fa-lg"></i>
           <span>Facebook</span><br/>
-          <i className="fa-brands fa-twitter fa-xl"></i>
+          <i className="fa-brands fa-twitter fa-lg"></i>
           <span>Twitter</span>
           <br/>
           <i className="fa-brands fa-instagram fa-lg"></i>
