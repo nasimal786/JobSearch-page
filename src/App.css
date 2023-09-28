@@ -167,6 +167,17 @@
 .footer_follow i{
   padding: 7px;
   margin: 9px;
+}
+.fa-facebook{
+  color: rgba(0, 0, 255, 0.61);
+}
+.fa-twitter{
+  color: blue;
+}
+.fa-instagram{
+  color: rgb(217, 12, 162);
+}
+.footer_follow span{
   color: gray;
 }
 .footer_tagline button{
