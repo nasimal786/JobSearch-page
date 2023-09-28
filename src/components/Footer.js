@@ -37,7 +37,7 @@ function Footer() {
       </div>
 
       <div className="footer_level2">
-        <p>@2023 #Tutree - All Rights Reserved</p>
+        <p>@2020 #Tutree - All Rights Reserved</p>
       </div>
     </div>
   );

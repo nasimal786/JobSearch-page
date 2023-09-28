@@ -10,7 +10,7 @@ const data = {
   datasets : [{
     label: 'Number of Joiner',
     data: [110,244,557,1119],
-    backgroundColor: 'red',
+    backgroundColor: ' rgba(165, 42, 42, 0.571)',
     borderColor: 'black',
     borderWidth: 1
   }]
