@@ -386,6 +386,7 @@
   .feature{
     flex-direction: column;
   }
+ 
   .chart_bar_graph{
     width: 340px;
     height: 280px;
@@ -395,22 +396,65 @@
   }
   .data{
     flex-direction: column;
-   
-  }
-  .data-companies h2{
-    text-align: start;
-    margin-top: 7%;
-  }
-  .data-cities h2{
-    text-align: start;
-    margin-top: 7%;
+   align-items: center;
+   text-align: center;
   }
   .data-jobs{
+    margin-top: 5%;
+   margin-left: 0;
+   margin-right: 23px;
+  }
+  .data-jobs p{
+    margin-left: -22px;
+   text-align: center;
+  }
+  .data-jobs a{
+    margin-left: -59px;
+  }
+  .data-cities{
     margin-left: 0;
+    margin-right: 23px;
     margin-top: 7%;
+   }
+   .data-cities h2{
+    margin-left: -43px;
+   }
+   .data-cities p{
+     margin-left: -36px;
+    text-align: center;
+   }
+   .data-cities a{
+     margin-left: -50px;
+   }
+   .data-companies{
+    margin-top: 5%;
+   margin-left: 0;
+   margin-right: 23px;
+  }
+  .data-companies h2{
+    margin-left: -53px;
+   }
+  .data-companies p{
+    margin-left: -22px;
+   text-align: center;
+  }
+  .data-companies a{
+    margin-left: -59px;
   }
   .data-salaries{
-    margin-top: 7%;
+    margin-top: 5%;
+   margin-left: 0;
+   margin-right: 23px;
+  }
+  .data-salaries h2{
+    margin-left: -20px;
+  }
+  .data-salaries p{
+    margin-left: -25px;
+   text-align: center;
+  }
+  .data-salaries a{
+    margin-left: -59px;
   }
   .feature-txt h2{
     margin-right: 35%;
@@ -452,16 +496,16 @@
     font-weight: 500;
   }
   .offer_carousel{
-    margin-left: 37px;
+    margin-left: 46px;
     padding: 9px;
-    width: 180px;
-    height: 160px;
+    width: 190px;
+    height: 190px;
   }
  .walking_carousel{
-    margin-left: 37px;
+    margin-left: 46px;
     padding: 9px;
-    width: 180px;
-    height: 160px;
+    width: 190px;
+    height: 190px;
   }
   .stress_txt{
     text-align: center;
