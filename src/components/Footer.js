@@ -5,9 +5,9 @@ function Footer() {
     <div className="footer">
       <div className="footer-level1">
         <div className="footer_tagline">
-          <h1>tutree</h1>
+          <h1>Job Search</h1>
           <p>Study with us</p>
-          <button>Join our group</button>
+          <button>Registration</button>
         </div>
         <div className="footer_company">
           <h2>Company</h2>
@@ -29,7 +29,7 @@ function Footer() {
           <i className="fa-brands fa-facebook fa-lg"></i>
           <span>Facebook</span><br/>
           <i className="fa-brands fa-twitter fa-lg"></i>
-          <span>Twitter</span>
+          <span className="twitter">Twitter</span>
           <br/>
           <i className="fa-brands fa-instagram fa-lg"></i>
           <span>Instagram</span>
@@ -37,7 +37,7 @@ function Footer() {
       </div>
 
       <div className="footer_level2">
-        <p>@2020 #Tutree - All Rights Reserved</p>
+        <p>@2020 Job Search - All Rights Reserved</p>
       </div>
     </div>
   );
