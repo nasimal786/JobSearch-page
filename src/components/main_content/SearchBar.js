@@ -11,7 +11,7 @@ function SearchBar() {
         <input type="text" placeholder="City,State or Country" />
         <button>Search Jobs</button>
        </div>
-       <a href="#">Upload or create a resume </a>
+       <a href="https://www.google.co.in/">Upload or create a resume </a>
        <span>to easily apply to jobs.</span>
     </div>
   )

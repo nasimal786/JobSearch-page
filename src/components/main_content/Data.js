@@ -14,7 +14,7 @@ function Data() {
         <p>Manager</p>
         <p>Accountant</p>
         <p>Software Developer</p>
-        <a href="#">View all</a>
+        <a href="https://www.google.co.in/">View all</a>
       </div>
       <div className="data-cities">
         <h2>Cities</h2>
@@ -27,7 +27,7 @@ function Data() {
         <p>Kanpur</p>
         <p>Pune</p>
         <p>Banglore</p>
-        <a href="#">View all</a>
+        <a href="https://www.google.co.in/">View all</a>
       </div>
       <div className="data-companies">
         <h2>Companies</h2>
@@ -40,7 +40,7 @@ function Data() {
         <p>Jacobs</p>
         <p>Kellogg Company</p>
         <p>Microsoft</p>
-        <a href="#">View all</a>
+        <a href="https://www.google.co.in/">View all</a>
       </div>
       <div className="data-salaries">
         <h2>Salaries</h2>
@@ -53,7 +53,7 @@ function Data() {
         <p>Sales Associate</p>
         <p>Store Manager</p>
         <p>Manager</p>
-        <a href="#">View all</a>
+        <a href="https://www.google.co.in/">View all</a>
       </div>
     </div>
   );

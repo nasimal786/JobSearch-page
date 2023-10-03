@@ -12,7 +12,7 @@ function Session() {
           review
         </p>
         <button>Get Resume Help</button>
-        <p >A service of <a href="#">indeed</a></p>
+        <p >A service of <a href="https://www.google.co.in/">indeed</a></p>
       </div>
       <div className="session_img">
         <img src="./images/resume.jpg" alt=" session" />
